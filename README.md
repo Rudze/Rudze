@@ -2,27 +2,16 @@
 
 ## Bonjour, moi c’est **Rudy** 🌟  
 
-- 🗓️ **Âge :** 23 ans (et toutes mes dents 🦷)  
-- 🏡 **Lieu :** Le Mans, France (la ville des rillettes, mais pas que !)  
-- 🌍 **Nationalité :** Française 🥖 [🔵⚪🔴]  
-- ☀️ **Né en août (un vrai Lion 🦁)**  
-
----
-
-### 🌌 Pourquoi **PetitPrince** ?  
-Ah, mon pseudo… Tout a commencé avec le célèbre **Petit Prince** d’Antoine de Saint-Exupéry, un livre qui a marqué mon enfance.  
-Ce pseudo m’a suivi dans mes premières aventures en ligne (jeux, sites web, et quelques tentatives ratées de piratage 😅).  
-
-Mais pourquoi **PetitPrinceQLF** ici ?  
-Eh bien... **PetitPrince** était déjà pris (oui, incroyable mais vrai), alors j’ai ajouté un clin d’œil au groupe de rap PNL avec **QLF** *(Que La Famille)*.  
-
-Si vous croisez un « PetitPrince » quelque part, c’est peut-être moi… ou un imposteur 👀.  
+- 🗓️ **Âge :** 24 ans
+- 🏡 **Lieu :** Le Mans, France  
+- 🌍 **Nationalité :** Française  
+- ☀️ **Né en août**  
 
 ---
 
 ### 🔧 Ingénieur système en formation 🎓  
 Actuellement étudiant en **ingénierie système** au CESI au Mans, je travaille également chez **DRI** 🍃 en tant qu’administrateur système.  
-Vous pouvez en savoir plus sur mon parcours en consultant ma page **CV** (allez-y, je ne mords pas 🦁).  
+Vous pouvez en savoir plus sur mon parcours en consultant ma page **CV**.  
 
 ---
 
@@ -39,7 +28,7 @@ En dehors des claviers et des écrans, je pratique la **force athlétique** 🏋
 Ce sport m’aide à repousser mes limites et à maintenir un équilibre entre le corps et l’esprit.  
 
 Cela me permet de devenir la meilleure version de moi-même jour après jour, avec des objectifs de **compétition** futurs.  
-*(D’ailleurs, vous pouvez me suivre sur [Instagram](https://www.instagram.com/rudydavid01/) pour voir mes progrès 👀 !)*  
+*(D’ailleurs, vous pouvez me suivre sur [Instagram](https://www.instagram.com/Rudze_/) pour voir mes progrès 👀 !)*
 
 ---
 
