@@ -9,9 +9,10 @@
 
 ---
 
-### 🔧 Ingénieur système en formation 🎓  
-Actuellement étudiant en **ingénierie système** au CESI au Mans, je travaille également chez **DRI** 🍃 en tant qu’administrateur système.  
-Vous pouvez en savoir plus sur mon parcours en consultant ma page **CV**.  
+### 🔧 Administrateur système Linux 🐧  
+Je travaille dans le domaine de l’**administration système**, avec une spécialisation **Linux**.  
+Issu d’une formation en **ingénierie système** au **CESI**, je mets en œuvre et maintiens des environnements systèmes fiables et performants.  
+Vous pouvez en savoir plus sur mon parcours en consultant ma page **CV**.
 
 ---
 
@@ -28,7 +29,6 @@ En dehors des claviers et des écrans, je pratique la **force athlétique** 🏋
 Ce sport m’aide à repousser mes limites et à maintenir un équilibre entre le corps et l’esprit.  
 
 Cela me permet de devenir la meilleure version de moi-même jour après jour, avec des objectifs de **compétition** futurs.  
-*(D’ailleurs, vous pouvez me suivre sur [Instagram](https://www.instagram.com/Rudze_/) pour voir mes progrès 👀 !)*
 
 ---
 
