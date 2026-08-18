@@ -1,93 +1,101 @@
-# Profile README
+<div align="center">
 
+# 👋 Salut, moi c'est <span style="color:#FF3B30">Rudy</span>
 
+</div>
 
-## Getting started
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF3B30&height=120&section=header&text=Ce%20que%20je%20fais&fontSize=35&fontColor=ffffff" width="100%">
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+<table>
+<tr>
+<td width="65%">
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+Formé en ingénierie système au **CESI**, je travaille aujourd'hui dans l'**administration système Linux** — déploiement et maintenance d'environnements fiables et performants.
 
-## Add your files
+Passionné d'informatique depuis longtemps, je continue à explorer de nouvelles compétences à travers des projets personnels. Plus de détails dans ma page **CV**.
 
-* [Create](https://docs.gitlab.com/user/project/repository/web_editor/#create-a-file) or [upload](https://docs.gitlab.com/user/project/repository/web_editor/#upload-a-file) files
-* [Add files using the command line](https://docs.gitlab.com/topics/git/add_files/#add-files-to-a-git-repository) or push an existing Git repository with the following command:
+</td>
+<td width="35%" align="center">
 
-```
-cd existing_repo
-git remote add origin https://gitlab.com/horizoncorporation/01-perso/Rudze.git
-git branch -M main
-git push -uf origin main
-```
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,debian,docker,kubernetes,ansible,gitlab,git,bash,python&perline=5" />
+<br>
+<img src="https://skillicons.dev/icons?i=apache,mysql,mariadb,postgres,grafana,prometheus,obsidian,cloudflare&perline=5" />
+</p>
 
-## Integrate with your tools
+</td>
+</tr>
+</table>
 
-* [Set up project integrations](https://gitlab.com/horizoncorporation/01-perso/Rudze/-/settings/integrations)
+---
 
-## Collaborate with your team
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF3B30&height=120&section=header&text=Game%20Dev&fontSize=35&fontColor=ffffff" width="100%">
 
-* [Invite team members and collaborators](https://docs.gitlab.com/user/project/members/)
-* [Create a new merge request](https://docs.gitlab.com/user/project/merge_requests/creating_merge_requests/)
-* [Automatically close issues from merge requests](https://docs.gitlab.com/user/project/issues/managing_issues/#closing-issues-automatically)
-* [Enable merge request approvals](https://docs.gitlab.com/user/project/merge_requests/approvals/)
-* [Set auto-merge](https://docs.gitlab.com/user/project/merge_requests/auto_merge/)
+<table>
+<tr>
+<td width="60%">
 
-## Test and Deploy
+Je suis aussi passionné de **game dev**, que j'explore sur mon temps libre à travers différents projets — moddings, prototypes, expérimentations sur divers moteurs. C'est un terrain de jeu parfait pour allier créativité et technique.
 
-Use the built-in continuous integration in GitLab.
+<p>
+<img src="https://img.shields.io/badge/-Minecraft%20Modding-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
+</p>
 
-* [Get started with GitLab CI/CD](https://docs.gitlab.com/ci/quick_start/)
-* [Analyze your code for known vulnerabilities with Static Application Security Testing (SAST)](https://docs.gitlab.com/user/application_security/sast/)
-* [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/topics/autodevops/requirements/)
-* [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/user/clusters/agent/)
-* [Set up protected environments](https://docs.gitlab.com/ci/environments/protected_environments/)
+</td>
+<td width="40%">
 
-***
+<img src="assets/images/project-minecraft.png" alt="Game dev" width="100%">
 
-# Editing this README
+</td>
+</tr>
+</table>
 
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thanks to [makeareadme.com](https://www.makeareadme.com/) for this template.
+---
 
-## Suggestions for a good README
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF3B30&height=120&section=header&text=Powerlifting&fontSize=35&fontColor=ffffff" width="100%">
 
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
+<table>
+<tr>
+<td width="40%">
 
-## Name
-Choose a self-explaining name for your project.
+<img src="assets/images/project-minecraft.png" alt="Powerlifting" width="100%">
 
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+</td>
+<td width="60%">
 
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
+Je pratique la **force athlétique** (squat, bench, deadlift) depuis plus d'un an, avec une approche structurée : programmation par blocs, suivi de charge et de RPE, et un objectif de **compétition** à moyen terme.
 
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+Une discipline qui se retrouve aussi dans ma façon de travailler.
 
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
+</td>
+</tr>
+</table>
 
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
+---
 
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF3B30&height=120&section=header&text=Ma%20Communaut%C3%A9&fontSize=35&fontColor=ffffff" width="100%">
 
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
+J'anime une petite communauté Discord autour de mes projets et de serveurs de jeux que je développe et administre.
 
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
+<p align="center">
+<a href="https://discord.gg/6ffyCYq3Ea">
+<img src="https://img.shields.io/badge/-Rejoindre%20le%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+</p>
 
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
+---
 
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF3B30&height=120&section=header&text=On%20Discute%20%3F&fontSize=35&fontColor=ffffff" width="100%">
 
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
+<div align="center">
 
-## License
-For open source projects, say how it is licensed.
+Un projet, une idée, ou juste envie d'échanger — n'hésitez pas à me contacter.
 
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+</div>
+
+---
+
+<div align="center">
+<sub>Merci d'être passé sur mon profil ✌️</sub>
+</div>
