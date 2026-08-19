@@ -1,10 +1,18 @@
 <div align="center">
 
-# 👋 Salut, moi c'est <span style="color:#FF3B30">Rudy</span>
+<img src="images/banner.jpg" width="100%">
+
+# Salut, moi c'est <span style="color:#FF3B30">Rudy</span> 👋
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF3B30&height=120&section=header&text=Ce%20que%20je%20fais&fontSize=35&fontColor=ffffff" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF3B30&height=3&width=100" width="100%">
+
+<div align="center">
+
+### <img src="images/pokeball.png" width="28" align="center"> ***Ce que je fais***
+
+</div>
 
 <table>
 <tr>
@@ -18,63 +26,50 @@ Passionné d'informatique depuis longtemps, je continue à explorer de nouvelles
 <td width="35%" align="center">
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,debian,docker,kubernetes,ansible,gitlab,git,bash,python&perline=5" />
+<img src="https://skillicons.dev/icons?i=linux,debian,docker,kubernetes,ansible&perline=5" />
 <br>
-<img src="https://skillicons.dev/icons?i=apache,mysql,mariadb,postgres,grafana,prometheus,obsidian,cloudflare&perline=5" />
+<img src="https://skillicons.dev/icons?i=gitlab,github,git,bash,python&perline=5" />
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,grafana,prometheus&perline=5" />
+<br>
+<img src="https://skillicons.dev/icons?i=obsidian,cloudflare&perline=5" />
 </p>
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF3B30&height=3&width=100" width="100%">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF3B30&height=120&section=header&text=Game%20Dev&fontSize=35&fontColor=ffffff" width="100%">
+<div align="center">
 
-<table>
-<tr>
-<td width="60%">
+### <img src="images/pokeball.png" width="28" align="center"> ***Hobbies & Goals***
+
+</div>
+
+**🎮 Game dev**
 
 Je suis aussi passionné de **game dev**, que j'explore sur mon temps libre à travers différents projets — moddings, prototypes, expérimentations sur divers moteurs. C'est un terrain de jeu parfait pour allier créativité et technique.
 
 <p>
-<img src="https://img.shields.io/badge/-Minecraft%20Modding-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />
-<img src="https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
+<img src="https://img.shields.io/badge/-Minecraft%20Modding-FF3B30?style=for-the-badge&logo=minecraft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Unreal%20Engine-990000?style=for-the-badge&logo=unrealengine&logoColor=white" />
+<img src="https://img.shields.io/badge/-Godot-330000?style=for-the-badge&logo=godotengine&logoColor=white" />
 </p>
 
-</td>
-<td width="40%">
+<br>
 
-<img src="assets/images/project-minecraft.png" alt="Game dev" width="100%">
+**🏋️ Force athlétique**
 
-</td>
-</tr>
-</table>
+Je pratique la **force athlétique** (squat, bench, deadlift) en compétition depuis plus d'un an.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF3B30&height=3&width=100" width="100%">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF3B30&height=120&section=header&text=Powerlifting&fontSize=35&fontColor=ffffff" width="100%">
+<div align="center">
 
-<table>
-<tr>
-<td width="40%">
+### <img src="images/pokeball.png" width="28" align="center"> ***Communauté***
 
-<img src="assets/images/project-minecraft.png" alt="Powerlifting" width="100%">
-
-</td>
-<td width="60%">
-
-Je pratique la **force athlétique** (squat, bench, deadlift) depuis plus d'un an, avec une approche structurée : programmation par blocs, suivi de charge et de RPE, et un objectif de **compétition** à moyen terme.
-
-Une discipline qui se retrouve aussi dans ma façon de travailler.
-
-</td>
-</tr>
-</table>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF3B30&height=120&section=header&text=Ma%20Communaut%C3%A9&fontSize=35&fontColor=ffffff" width="100%">
+</div>
 
 J'anime une petite communauté Discord autour de mes projets et de serveurs de jeux que je développe et administre.
 
@@ -84,17 +79,9 @@ J'anime une petite communauté Discord autour de mes projets et de serveurs de j
 </a>
 </p>
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF3B30&height=120&section=header&text=On%20Discute%20%3F&fontSize=35&fontColor=ffffff" width="100%">
-
-<div align="center">
-
 Un projet, une idée, ou juste envie d'échanger — n'hésitez pas à me contacter.
 
-</div>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF3B30&height=3&width=100" width="100%">
 
 <div align="center">
 <sub>Merci d'être passé sur mon profil ✌️</sub>
