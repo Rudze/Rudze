@@ -1,3 +1,9 @@
+## [1.0.2](https://gitlab.com/Rudze/Rudze/compare/v1.0.1...v1.0.2) (2026-08-20)
+
+### Bug Fixes
+
+* Update README.md ([dfdb2fd](https://gitlab.com/Rudze/Rudze/commit/dfdb2fdf2782f253689712ab5db97c0c541ff1c1))
+
 ## [1.0.1](https://gitlab.com/Rudze/Rudze/compare/v1.0.0...v1.0.1) (2026-08-19)
 
 ### Bug Fixes
